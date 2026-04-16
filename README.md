@@ -2,72 +2,69 @@
 
 ## 🧠 About Me
 QA Engineer focused on Automation, API Testing, Performance Testing, and VAPT.  
-Experienced in building scalable test frameworks and integrating automated testing into CI/CD pipelines.
+Experienced in building scalable test automation frameworks and integrating automated testing into CI/CD pipelines.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Testing
+### 🧪 Testing
 - Manual Testing (Functional, Regression, UAT)
-- API Testing (Postman, REST)
+- API Testing (Postman, REST APIs)
 
-### Automation
+### 🤖 Automation
 - Robot Framework
-- Selenium
+- Selenium WebDriver
 - Katalon Studio
 - BDD Framework Design
 
-### Performance
+### ⚡ Performance Testing
 - Apache JMeter (Load & Stress Testing)
 - Google Lighthouse
 
-### Security
+### 🔐 Security Testing
 - VAPT (Vulnerability Assessment and Penetration Testing)
 - OWASP Top 10
-- Qualys (Scanning)
-- Burp Suite (Scanning)
+- Qualys
+- Burp Suite
 
-### DevOps
-- Azure DevOps (CI/CD Pipelines)
-- Azure Boards
+### 🔄 DevOps / CI-CD
+- Azure DevOps (Pipelines, Boards)
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Manual Testing – Enterprise Web Applications
-- Performed end-to-end manual testing including functional, regression, and UAT testing  
-- Designed and executed test cases based on business requirements  
-- Identified, documented, and tracked defects until resolution  
-- Ensured system stability across multiple environments  
+- Executed functional, regression, and UAT testing for enterprise applications  
+- Designed and maintained test cases based on requirements  
+- Logged and tracked defects until resolution  
+- Ensured application stability across multiple environments  
 
 ---
 
-### 🔹 Automated UI Testing Framework
-- Developed automation test scripts using Selenium with Robot Framework and Katalon  
-- Created reusable keywords and modular test components  
-- Automated critical user flows such as login, form validation, and transactions  
-- Integrated automation into CI/CD pipelines for continuous testing  
+### 🔹 UI Automation Framework
+- Built automation framework using Selenium + Robot Framework  
+- Developed reusable keywords and modular test design  
+- Automated critical user flows (login, forms, transactions)  
+- Integrated automation into Azure DevOps CI/CD pipelines  
 
 ---
 
 ### 🔹 API & Performance Testing
-- Performed API and performance testing using Postman, Apache JMeter, and Google Lighthouse  
-- Validated API responses, status codes, and data integrity  
-- Conducted load and stress testing to evaluate system performance  
-- Analyzed results to identify bottlenecks and improve system efficiency  
+- Conducted API testing using Postman  
+- Performed load and stress testing using Apache JMeter  
+- Validated response codes, payloads, and data integrity  
+- Identified performance bottlenecks and recommended improvements  
 
 ---
 
-### 🔹 Vulnerability Assessment and Penetration Testing (VAPT)
-- Conducted security testing on internal and client applications using Qualys and Burp Suite  
-- Identified vulnerabilities such as Information Disclosure and misconfigurations  
-- Assessed and categorized findings based on severity levels  
-- Provided remediation recommendations aligned with security best practices  
+### 🔹 VAPT / Security Testing
+- Performed vulnerability scanning using Qualys and Burp Suite  
+- Identified issues such as Information Disclosure and misconfigurations  
+- Classified findings based on severity levels  
+- Provided remediation recommendations aligned with OWASP standards  
 
 ---
 
-## 📬 Contact
-- Email: gregycunanan23@gmail.com
-- GitHub: https://github.com/Gregycunanan
+## 📂 Repository Structure
